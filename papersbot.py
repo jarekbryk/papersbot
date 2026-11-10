@@ -189,6 +189,11 @@ def save_items(slug: str, items: list[dict]) -> None:
     p.write_text(json.dumps(items, indent=1, ensure_ascii=False) + "\n", "utf-8")
 
 
+def newest_first(items: list[dict]) -> list[dict]:
+    """Most recently published first (RSS readers still see each item dated by when it was added)."""
+    return sorted(items, key=lambda it: (it.get("pub_date", ""), it.get("added", "")), reverse=True)
+
+
 def _norm_title(t: str) -> str:
     return re.sub(r"[^a-z0-9]", "", t.lower())
 
@@ -233,9 +238,7 @@ def fetch(cfg: dict) -> int:
             if len(new) >= feed["max_new_per_run"]:
                 break
 
-        # oldest-first so that within one run the newest paper ends up on top
-        new.reverse()
-        items = (new + items)[: feed["keep_items"]]
+        items = newest_first(new + items)[: feed["keep_items"]]
         save_items(slug, items)
         print(f"[{slug}] {len(records)} matches, {len(new)} new, {len(items)} stored")
         total_new += len(new)
@@ -365,7 +368,7 @@ def build(cfg: dict, out: Path, base_url: str | None = None) -> None:
     index_rows = []
     for feed in cfg["feeds"]:
         slug = feed["slug"]
-        items = load_items(slug)
+        items = newest_first(load_items(slug))
         d = out / "feeds" / slug
         d.mkdir(parents=True, exist_ok=True)
         (d / "feed.xml").write_text(_rss(feed, items[: feed["feed_items"]], site, base), "utf-8")
