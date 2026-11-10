@@ -1,0 +1,63 @@
+name: PapersBot
+
+on:
+  schedule:
+    - cron: "17 6 * * *"   # daily at 06:17 UTC
+  workflow_dispatch:        # "Run workflow" button in the Actions tab
+  push:
+    branches: [main]
+    paths: ["config.toml", "papersbot.py", ".github/workflows/papersbot.yml"]
+
+permissions:
+  contents: write   # commit data/*.json back to the repo
+  pages: write
+  id-token: write
+
+concurrency:
+  group: papersbot
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - id: pages
+        uses: actions/configure-pages@v5
+
+      - name: Fetch new papers
+        run: python papersbot.py fetch
+
+      - name: Save state
+        run: |
+          git config user.name "papersbot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "No new papers."
+          else
+            git commit -m "New papers $(date -u +%Y-%m-%d)"
+            git push
+          fi
+
+      - name: Build site
+        run: python papersbot.py build --base-url "${{ steps.pages.outputs.base_url }}"
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

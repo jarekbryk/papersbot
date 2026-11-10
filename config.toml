@@ -1,0 +1,31 @@
+# PapersBot configuration
+#
+# Each [[feeds]] block is one "bot": its own page and its own RSS feed.
+# Queries use Europe PMC search syntax (it covers all of PubMed/MEDLINE, PMC and preprints):
+#   https://europepmc.org/searchsyntax
+# Useful fields: TITLE:, ABSTRACT:, TITLE_ABS:, KW:, MESH:, AUTH:, JOURNAL:, SRC:MED (PubMed only),
+#   SRC:PPR (preprints only), OPEN_ACCESS:y, LANG:eng, PUB_TYPE:"review"
+# A date filter (last `lookback_days`) is added automatically, so don't add one yourself.
+
+[site]
+title = "PapersBot"
+description = "New papers from PubMed and Europe PMC, posted daily."
+# Leave empty when deploying with the included GitHub Actions workflow: it fills this in automatically.
+base_url = ""
+
+# Defaults applied to every feed (each can be overridden inside a [[feeds]] block).
+[defaults]
+lookback_days = 7         # how far back each search looks; already-posted papers are skipped
+max_new_per_run = 25      # cap on new posts per feed per run (avoids floods)
+require_abstract = true   # skip records without an abstract
+feed_items = 50           # items in each RSS feed
+page_items = 200          # items on each HTML page
+keep_items = 1000         # items kept in data/<slug>.json
+
+[[feeds]]
+slug = "radseq"
+title = "RAD-seq papers"
+description = "Restriction-site associated DNA sequencing (RAD-seq, RADseq)"
+# Hyphens are ignored by the search, so "restriction-site" also matches "restriction site".
+# The NOT clause drops an unrelated RNA method that is also abbreviated "RAD-seq".
+query = 'TITLE_ABS:("RAD-seq" OR "RADseq" OR "RAD sequencing" OR "restriction-site associated DNA" OR "ddRAD" OR "ddRADseq" OR "ddRAD-seq" OR "2b-RAD" OR "ezRAD") NOT TITLE_ABS:"RNA accessibility"'
