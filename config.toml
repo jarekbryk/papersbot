@@ -15,7 +15,7 @@ base_url = ""
 
 # Defaults applied to every feed (each can be overridden inside a [[feeds]] block).
 [defaults]
-lookback_days = 7         # how far back each search looks; already-posted papers are skipped
+lookback_days = 30         # how far back each search looks; already-posted papers are skipped
 max_new_per_run = 25      # cap on new posts per feed per run (avoids floods)
 require_abstract = true   # skip records without an abstract
 feed_items = 50           # items in each RSS feed
