@@ -1,0 +1,62 @@
+[
+ {
+  "id": "MED:42991383",
+  "title": "Contrasting Spatial Genomic Structure in Two Widespread Grassland Species Across Norway Supports Species-Specific Seed Sourcing",
+  "authors": "Gizaw A, Hanslin HM, Aamlid TS, Borch H, Šípková H, Fossdal CG.",
+  "journal": "Ecology and evolution",
+  "pub_date": "2026-11-05",
+  "doi": "10.1002/ece3.74474",
+  "pmid": "42991383",
+  "url": "https://doi.org/10.1002/ece3.74474",
+  "epmc_url": "https://europepmc.org/article/MED/42991383",
+  "abstract": "<p>Ecological restoration typically relies on locally sourced seed material, yet seed sourcing in many countries is based on broad administrative regions rather than empirical genetic data. Whether these generalized zones reflect biologically meaningful population genomic structure, particularly among co-occurring species used together in restoration, remains poorly understood, thus limiting genetically informed restoration practices. Here, we use genome-wide double-digest RAD sequencing (ddRAD-seq) to examine spatial population genomic structure in two widespread perennial grassland species commonly used in restoration in Norway: <i>Silene dioica</i>, an obligately outcrossing species with limited seed dispersal, and <i>Achillea millefolium</i>, a polyploid complex characterized by high gene flow and dispersal capacity. Analysis of 17 populations of <i>S. dioica</i> (355 individuals; 19,200 SNPs) and 23 populations of <i>A. millefolium</i> (428 individuals; 21,294 SNPs) across broad latitudinal and climatic gradients in Norway revealed strikingly contrasting patterns of genetic structure. <i>Silene dioica</i> showed moderate spatial structure, significant isolation-by-distance, and multiple geographically coherent genetic groups, indicating spatially restricted gene flow and supporting the delineation of multiple seed transfer zones. In contrast, <i>A. millefolium</i> showed weak population differentiation, extensive admixture, and little geographic structuring, but significant isolation-by-environment, with annual precipitation emerging as the strongest environmental predictor of genomic differentiation independently of geographic distance, justifying the delineation of three broad genomic zones. Because species-specific life-history traits likely contributed to these patterns, a single generalized seed-sourcing framework can be inadequate even for sympatric species restored together. While the structured genomic patterns in <i>S. dioica</i> support localized seed sourcing, the high connectivity in <i>A. millefolium</i> supports broader transfer zones. Overall, our study highlights the importance of incorporating genomic data into restoration planning by aligning seed transfer distances with species-specific connectivity to reduce genetic risks and maintain evolutionary potential under environmental change.</p>",
+  "preprint": false,
+  "open_access": true,
+  "added": "2026-11-10T11:10:41+00:00"
+ },
+ {
+  "id": "MED:42991491",
+  "title": "Climate-Associated Genetic Variation in Native and Introduced Populations of <i>Eustenopus villosus</i>, a Biological Control Agent for Yellow Starthistle",
+  "authors": "Barker BS, Pelosi JA, Sert O, Dlugosch KM.",
+  "journal": "Evolutionary applications",
+  "pub_date": "2026-11-05",
+  "doi": "10.1111/eva.70341",
+  "pmid": "42991491",
+  "url": "https://doi.org/10.1111/eva.70341",
+  "epmc_url": "https://europepmc.org/article/MED/42991491",
+  "abstract": "<p>Contemporary evolution in biological control systems is rarely studied, though biological agents are repeatedly exposed to novel environmental conditions upon introduction. Their ability to adapt to new conditions could influence management efficacy and reveal important aspects of environmental selection. Using a ddRADseq dataset, we tested for genomic evidence of adaptation to climate in populations of <i>Eustenopus villosus</i> (Boheman, Coleoptera: Curculionidae), the \"hairy weevil\", which is used in classical biological control for yellow starthistle (<i>Centaurea solstitialis</i> L., Asteraceae) in the western United States. We first estimated population structure in <i>E. villosus</i> across our samples of the native and introduced ranges and then used six complementary genotype-environment association analyses to identify single nucleotide polymorphisms (SNPs) associated with climate in both native and introduced populations. Additionally, we used historical release records to categorize sampling sites according to their serial founding history and test for impacts of this history on total and putatively adaptive genomic variation in the introductions. We also tested whether candidate loci associated with climate in the native range exhibit similar associations in the introductions, or if new associations have evolved. We identified many candidate loci in both native and introduced populations and found little evidence of a decline in genomic variation, which suggests that serial founding events did not prevent climatic adaptation. Candidate loci differed between native and introduced populations, indicating that local adaptation has occurred in different regions of the genome after introduction of <i>E. villosus</i>. Our findings suggest an important role for novel contemporary adaptation in this biological control system and provide insight into how genetic variation can persist in biological control agents through introduction and serial founding events.</p>",
+  "preprint": false,
+  "open_access": true,
+  "added": "2026-11-10T11:10:41+00:00"
+ },
+ {
+  "id": "MED:42998976",
+  "title": "Genome-wide SNP analysis of genetic diversity and selection signatures in ​Black ​Bengal goats",
+  "authors": "Nayak SS, Devadharshini K, Ranjith G, Rath PK, Verma SK, Rajawat D, Panigrahi M.",
+  "journal": "Mammalian genome : official journal of the International Mammalian Genome Society",
+  "pub_date": "2026-11-07",
+  "doi": "10.1007/s00335-026-10288-3",
+  "pmid": "42998976",
+  "url": "https://doi.org/10.1007/s00335-026-10288-3",
+  "epmc_url": "https://europepmc.org/article/MED/42998976",
+  "abstract": "<p>The Black Bengal goat, a well-known breed of the Indian subcontinent, is valued for its excellent meat quality, high reproductive efficiency, and ability to thrive under diverse agroclimatic conditions. In this study, genetic diversity and selection signatures were investigated using SNP genotyping data from 90 animals using the ddRAD sequencing approach. Genetic diversity parameters, effective population size (Ne), and selection signatures were evaluated using Tajima's D, composite likelihood ratio (CLR), integrated haplotype score (iHS), and runs of homozygosity (ROH) analyses. Historical analysis of Ne revealed a peak value of 4,930, approximately 368 generations ago, followed by a steady decline to 366 around 13 generations ago. The observed heterozygosity (0.229 ± 0.149) was lower than the expected heterozygosity (0.275 ± 0.139), indicating a deficiency of heterozygotes in the population. The current Ne estimate of 158.4 suggests a reduction in population size over time. Using multiple complementary approaches, we identified 138 genomic regions under positive selection, encompassing 743 genes. Gene Ontology analysis highlighted significant enrichment of negative regulation of complement activation (LOC102169502, LOC102169786), positive regulation of interleukin-12 production (IL12B, IRF8, LEP, MDK), and type II interferon production (IRF8, IL12B, TYK2, CD14), indicating immune regulation and host defense. The candidate genes and enriched pathways identified in this study were mainly associated with immune function, fear response, adaptation, learning, cognition, and visual perception. These findings provide insights into the resilience and adaptation of the Black Bengal goats and may support future breeding and conservation efforts of the indigenous breed.</p>",
+  "preprint": false,
+  "open_access": false,
+  "added": "2026-11-10T11:10:41+00:00"
+ },
+ {
+  "id": "MED:42999544",
+  "title": "Genetic Diversity and Putative Origin of the Bait Polychaete, <i>Diopatra aciculata</i> Knox and Cameron  (Annelida: Onuphidae), Occurring in South Africa",
+  "authors": "Schoeman S, Matthee CA, Hull K, Simon CA.",
+  "journal": "Ecology and evolution",
+  "pub_date": "2026-11-06",
+  "doi": "10.1002/ece3.74520",
+  "pmid": "42999544",
+  "url": "https://doi.org/10.1002/ece3.74520",
+  "epmc_url": "https://europepmc.org/article/MED/42999544",
+  "abstract": "<p>The bait polychaete <i>Diopatra aciculata</i> is commercially farmed in Australia and is collected as bait in several South African estuaries. Despite its widespread use, the species' geographic origin remains uncertain, hindering management efforts within sensitive estuarine ecosystems. Mitochondrial Cytochrome Oxidase subunit I (mt<i>COI</i>) data and ddRAD-generated single-nucleotide polymorphisms (SNPs) were used to gain insight into the origin and genetic diversity of <i>D. aciculata</i>. A total of 204 individuals were collected from an aquaculture farm in Australia and the Knysna, Keurbooms, and Swartkops Estuaries in South Africa. The mt<i>COI</i> analyses supported the monophyly of <i>D. aciculata</i> and revealed lower genetic diversity in the South African population compared to the Australian population. Both marker sets revealed significant genetic differentiation between the continental populations that are naturally isolated by the Indian Ocean basin. The SNP dataset revealed low intrapopulation genetic diversity for both the Australian and South African populations. The discordant genetic diversity findings between the mt<i>COI</i> and SNP datasets may be attributed to the differences in the evolutionary rate of the two marker systems. In addition, the low genomic diversity observed in the SNP dataset is consistent with the effects of captive breeding in the Australian aquaculture population; consequently, the effect of sampling bias cannot be excluded. However, the mt<i>COI</i> signal of reduced diversity in South Africa is consistent with an introduced population and both mt<i>COI</i> and SNP-based RASP analyses recovered Australian samples in a basal position, suggesting Australia as the plausible origin. This highlights the need for precautionary conservation efforts to prevent further spread.</p>",
+  "preprint": false,
+  "open_access": true,
+  "added": "2026-11-10T11:10:41+00:00"
+ }
+]
