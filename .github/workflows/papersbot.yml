@@ -21,17 +21,14 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-
-      - uses: actions/setup-python@v5
-        with:
-          python-version: "3.12"
+      - uses: actions/checkout@v7
 
       - id: pages
-        uses: actions/configure-pages@v5
+        uses: actions/configure-pages@v6
 
+      # The runner's built-in Python is enough: papersbot.py needs 3.11+ and only the standard library.
       - name: Fetch new papers
-        run: python papersbot.py fetch
+        run: python3 papersbot.py fetch
 
       - name: Save state
         run: |
@@ -46,9 +43,9 @@ jobs:
           fi
 
       - name: Build site
-        run: python papersbot.py build --base-url "${{ steps.pages.outputs.base_url }}"
+        run: python3 papersbot.py build --base-url "${{ steps.pages.outputs.base_url }}"
 
-      - uses: actions/upload-pages-artifact@v3
+      - uses: actions/upload-pages-artifact@v5
         with:
           path: _site
 
@@ -60,4 +57,4 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5
