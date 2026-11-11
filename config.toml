@@ -29,3 +29,9 @@ description = "Restriction-site associated DNA sequencing (RAD-seq, RADseq)"
 # Hyphens are ignored by the search, so "restriction-site" also matches "restriction site".
 # The NOT clause drops an unrelated RNA method that is also abbreviated "RAD-seq".
 query = 'TITLE_ABS:("RAD-seq" OR "RADseq" OR "RAD sequencing" OR "restriction-site associated DNA" OR "ddRAD" OR "ddRADseq" OR "ddRAD-seq" OR "2b-RAD" OR "ezRAD") NOT TITLE_ABS:"RNA accessibility"'
+
+[[feeds]]
+slug = "apodemus"
+title = "Apodemus papers"
+description = "Papers that mention any species from the genus Apodemus"
+query = 'TITLE_ABS:("apodemus")
