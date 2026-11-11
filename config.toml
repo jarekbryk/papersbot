@@ -25,11 +25,12 @@ keep_items = 1000         # items kept in data/<slug>.json
 [[feeds]]
 slug = "radseq"
 title = "RAD-seq papers"
-description = "Restriction-site associated DNA sequencing (RAD-seq, RADseq)"
+description = "Papers that mention various flavours of restriction-site associated DNA sequencing"
 # Hyphens are ignored by the search, so "restriction-site" also matches "restriction site".
 # The NOT clause drops an unrelated RNA method that is also abbreviated "RAD-seq".
 query = 'TITLE_ABS:("RAD-seq" OR "RADseq" OR "RAD sequencing" OR "restriction-site associated DNA" OR "ddRAD" OR "ddRADseq" OR "ddRAD-seq" OR "2b-RAD" OR "ezRAD") NOT TITLE_ABS:"RNA accessibility"'
 
+[[feeds]]
 slug = "apodemus"
 title = "Apodemus papers"
 description = "Papers that mention any species from the genus Apodemus"
