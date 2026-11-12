@@ -1,5 +1,20 @@
 [
  {
+  "id": "PPR:PPR1362519",
+  "title": "Genomic signatures of local adaptation in marram grass highlight the importance of provenance in dune restoration",
+  "authors": "Baker ER, Curran EV, Lammers C, Bailes EJ, Patel R, Knowles LS, Hibdige SG, Mian S, Vorontsova MS, Leitch IJ, Grashof J, Wolff E, Jones L, Nadeau NJ, Reijers VC, Dunning LT.",
+  "journal": "bioRxiv",
+  "pub_date": "2026-11-09",
+  "doi": "10.64898/2026.11.06.764831",
+  "pmid": "",
+  "url": "https://doi.org/10.64898/2026.11.06.764831",
+  "epmc_url": "https://europepmc.org/article/PPR/PPR1362519",
+  "abstract": "<p>Coastal sand dunes provide critical natural flood defences and key habitats for a range of threatened species. These systems are formed when shifting sands are stabilised by specialised coastal grasses. In Europe, marram grass (Calamagrostis arenaria) is the main dune building species. However, despite its ecological importance and its widespread use in dune restoration, little is known about the genomic innovations that facilitated the colonisation of the coast, the extent of local adaptation in current populations, or the genetic consequences of restoration practices. Using a chromosome-scale reference genome we generate here, we show that C. arenaria has significant expansions in several gene families relevant to coastal adaptation, including those associated with salinity, drought, and nutrient limitation. Using ddRAD-Seq data for over 200 individuals from 10 European populations, we identified strong genetic differentiation between northern and southern populations which corresponds to recognised subspecies. Within the northern european populations, the genetic structure is largely driven by isolation-by-distance. Although, we detected evidence of non-local planting in a restored Swedish dune system, where introduced plants were genetically distinct from the native population and both groups exhibited reduced genetic diversity. Genome-wide scans for local adaptation within the northern European marram grass individuals identified outlying genomic regions that were enriched for genes with functions associated with nutrient deficiency, drought, pathogen defence, and other environmental stressors characteristic of coastal dunes, potentially indicating local adaptation. Outlying regions also include genes associated with lignin biosynthesis and culm mechanical strength, potentially reflecting selection on the structural properties required to withstand different burial and wind exposure regimes. Overall, these findings show widespread local adaptation in C. arenaria, and support the use of local provenance in dune restoration and conservation.</p>",
+  "preprint": true,
+  "open_access": false,
+  "added": "2026-11-12T15:11:53+00:00"
+ },
+ {
   "id": "MED:42998976",
   "title": "Genome-wide SNP analysis of genetic diversity and selection signatures in ​Black ​Bengal goats",
   "authors": "Nayak SS, Devadharshini K, Ranjith G, Rath PK, Verma SK, Rajawat D, Panigrahi M.",
