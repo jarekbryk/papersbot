@@ -1,5 +1,20 @@
 [
  {
+  "id": "MED:43020238",
+  "title": "Molecular surveillance of Bartonella species, Coxiella burnetii, and orthohantaviruses in wild small mammals and their associated chigger mites in South Korea",
+  "authors": "Kim B, Lee YJ, Woo HM, Choi JW, Choi I, Kang YM, Kwak D, Seo MG.",
+  "journal": "Acta tropica",
+  "pub_date": "2026-11-12",
+  "doi": "10.1016/j.actatropica.2026.108411",
+  "pmid": "43020238",
+  "url": "https://doi.org/10.1016/j.actatropica.2026.108411",
+  "epmc_url": "https://europepmc.org/article/MED/43020238",
+  "abstract": "<p>Wild small mammals are important hosts of diverse zoonotic pathogens. Molecular surveillance incorporating both small mammals and their associated ectoparasites can provide information on pathogen detection at the wildlife-ectoparasite interface. In this study, 1,444 wild small mammals and 12,869 associated chigger mites, analyzed as 680 host-associated pools, were collected from 17 sites in South Korea between 2022 and 2025. Samples were examined for Bartonella spp., Coxiella burnetii, and orthohantaviruses using PCR- and RT-PCR-based methods, followed by sequence and phylogenetic analyses. The predominant small-mammal species, Apodemus agrarius, accounted for 84.9% of captured small mammals. DNA related to Bartonella schoenbuchensis was detected in 473 of 680 chigger mite pools (69.6%), whereas DNA related to Bartonella bacilliformis, Bartonella henselae, and Bartonella taylorii was detected in three of 1,444 small-mammal liver samples (0.2%) for each taxon. DNA of Coxiella burnetii was detected in 51 of 1,444 liver samples (3.5%), all collected during the autumn 2024 survey. Orthohantavirus RNA was detected in 37 small mammals (2.6%), predominantly in A. agrarius (35/37, 94.6%), with the remaining two detections in Crocidura spp. (2/37, 5.4%), and in three chigger mite pools (0.4%). To our knowledge, these findings provide the first molecular evidence of DNA related to B. schoenbuchensis in host-associated chigger mite pools and document previously unreported DNA related to B. bacilliformis and B. henselae in wild small-mammal liver samples in South Korea. The results provide descriptive baseline data for wildlife-based molecular surveillance; they do not establish seasonal patterns, individual-mite infection prevalence, or vector competence.</p>",
+  "preprint": false,
+  "open_access": false,
+  "added": "2026-11-13T14:32:55+00:00"
+ },
+ {
   "id": "MED:42992671",
   "title": "Virome characterization of plateau wetlands-collected rodents in western Guizhou Province, China",
   "authors": "Zeng X, Tang X, Zhou J, Zhou J, Gu T, Zhao S, Liu C, Hu Y, Li S.",
