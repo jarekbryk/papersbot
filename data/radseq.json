@@ -1,5 +1,20 @@
 [
  {
+  "id": "MED:43026271",
+  "title": "Genome-wide analysis reveals altitude-associated divergence in a colour-polymorphic insect",
+  "authors": "Topalan U, Kuyucu AC, Farid SA, Çağlar SS, Sağlam İK.",
+  "journal": "Heredity",
+  "pub_date": "2026-11-13",
+  "doi": "10.1038/s41437-026-00899-6",
+  "pmid": "43026271",
+  "url": "https://doi.org/10.1038/s41437-026-00899-6",
+  "epmc_url": "https://europepmc.org/article/MED/43026271",
+  "abstract": "<p>Environmental gradients provide powerful natural experiments for understanding how selection and gene flow interact to shape genomic and phenotypic variation. However, the genetic basis of adaptation across steep altitudinal clines remains poorly resolved, particularly in systems with high connectivity. We studied the montane bush cricket Isophya rizeensis, which exhibits a discrete male colour polymorphism along a continuous 450-2300 m elevational transect in the Fırtına Valley (Türkiye), with a sharp transition between dark and pale morphs near mid-elevations. Using genome-wide RAD sequencing of 71 individuals, we identified over 92,000 SNPs and detected weak overall population structure consistent with substantial connectivity along the gradient. Despite this, putatively adaptive loci showed markedly stronger spatial differentiation than neutral loci. Genome-wide association analyses identified 101 SNPs significantly associated with altitude, exhibiting reciprocal allele-frequency shifts and steep, narrow clines concentrated over short elevational distances. Discriminant analyses further revealed three loci of large effect that strongly differentiate colour morphs and are tightly linked to elevation. Together, these results indicate that spatially varying selection can maintain discrete phenotypic polymorphism and localized genomic divergence despite high connectivity. Our findings provide empirical support for clinal models of local adaptation under gene flow and highlight how environmental heterogeneity structures adaptive genetic variation in montane ecosystems.</p>",
+  "preprint": false,
+  "open_access": false,
+  "added": "2026-11-14T13:29:22+00:00"
+ },
+ {
   "id": "PPR:PPR1362519",
   "title": "Genomic signatures of local adaptation in marram grass highlight the importance of provenance in dune restoration",
   "authors": "Baker ER, Curran EV, Lammers C, Bailes EJ, Patel R, Knowles LS, Hibdige SG, Mian S, Vorontsova MS, Leitch IJ, Grashof J, Wolff E, Jones L, Nadeau NJ, Reijers VC, Dunning LT.",
@@ -148,6 +163,21 @@
   "preprint": true,
   "open_access": false,
   "added": "2026-11-10T11:15:06+00:00"
+ },
+ {
+  "id": "MED:43022169",
+  "title": "Genetic diversity and differentiation characteristics of the widespread plant <i>Phragmites australis</i> in eastern China",
+  "authors": "Huo X, Li N, Yu H, Wang C, Gao Y, Zhu H, Wang Y, Jin L, Zhang Y, Liu C.",
+  "journal": "Frontiers in plant science",
+  "pub_date": "2026-10-29",
+  "doi": "10.3389/fpls.2026.1995193",
+  "pmid": "43022169",
+  "url": "https://doi.org/10.3389/fpls.2026.1995193",
+  "epmc_url": "https://europepmc.org/article/MED/43022169",
+  "abstract": "<p><strong>Introduction</strong> <i>Phragmites australis</i> (common reed) is a globally distributed and highly productive emergent macrophyte with important ecological functions in wetland ecosystems. However, the genetic diversity and population differentiation of <i>P. australis</i> in eastern China remain insufficiently characterized.</p><p><strong>Methods</strong> In this study, we performed RAD-seq-based reduced-representation genome sequencing of 98 <i>P. australis</i> individuals collected from populations distributed across eastern China to characterize genetic variation, population structure, and geographic differentiation among populations.</p><p><strong>Results</strong> A total of 730,413 high-quality single-nucleotide polymorphisms (SNPs) were identified. Population genomic analyses revealed relatively high genetic diversity across eastern Chinese populations and substantial population structure, with the broad geographic distribution of <i>P. australis</i> associated with the formation of multiple genetic clusters. Functional enrichment analyses further indicated that pathways related to plant-pathogen interactions and sugar metabolism, highlighting potential biological processes associated with the genetic variation observed among the sampled populations. Among the sampled populations, the Longqi Bay (LQW) population exhibited the most distinct genetic characteristics, followed by the Baiyangdian Lake (BYD) and Xizhi Lake (XZH) populations. In contrast, the Weishan Lake (WSH) and Panjin (PJ) populations showed relatively low genetic differentiation and displayed genomic variation patterns more similar to those of the reference genome. Notably, the Yangtze River region coincided with a pronounced north-south transition in genetic structure.</p><p><strong>Discussion</strong> Overall, these findings provide new insights into the population genetic structure, evolutionary history, and geographic differentiation of <i>P. australis</i> in eastern China and provide valuable genomic resources for investigating its evolutionary dynamics and ecological adaptation.</p>",
+  "preprint": false,
+  "open_access": false,
+  "added": "2026-11-14T13:29:22+00:00"
  },
  {
   "id": "MED:42955938",
