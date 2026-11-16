@@ -75,6 +75,21 @@
   "added": "2026-11-11T10:26:24+00:00"
  },
  {
+  "id": "MED:43035980",
+  "title": "Epigenetic Clocks Uncover the Natural History of Ageing in Wild Mice",
+  "authors": "Wolf SE, Babayan SA, Marioni RE, Horvath S, Pedersen AB, Little TJ.",
+  "journal": "Molecular ecology",
+  "pub_date": "2026-11-01",
+  "doi": "10.1111/mec.70662",
+  "pmid": "43035980",
+  "url": "https://doi.org/10.1111/mec.70662",
+  "epmc_url": "https://europepmc.org/article/MED/43035980",
+  "abstract": "<p>Environmental stressors are expected to accelerate senescence but demonstrating this requires both a measure of senescence and knowledge of chronological age-data rarely available for most wild animals. Here, we constructed a DNA methylation-based epigenetic clock for the wood mouse (Apodemus sylvaticus) using known-aged laboratory individuals and applied it to a wild population of unknown ages. This represents one of the first demonstrations that a laboratory-trained epigenetic clock can be used to infer age structure in free-living animals. Multiple lines of evidence validated use of the clock in wild individuals: age estimates fell within expected ranges, recapitulated population demographic structure, and recovered predicted signatures of senescence, including an increase in infection probability with age. Moreover, wild mice given experimental food supplementation and parasite-removal drugs exhibited slower epigenetic ageing rates. Together, our findings demonstrate that epigenetic clocks can infer both chronological age and ageing rates in the wild, providing a powerful framework to identify the ecological and individual determinants of ageing.</p>",
+  "preprint": false,
+  "open_access": false,
+  "added": "2026-11-16T15:42:35+00:00"
+ },
+ {
   "id": "PPR:PPR1350943",
   "title": "Meteorological factors and haemorrhagic fever with renal syndrome incidence in ten provinces of China, 2005–2020: a two-stage, age- stratified distributed lag non-linear analysis",
   "authors": "Wang F, Tai M, Ke M, Liu Y, Duan Y, Chen T, Tian Z.",
