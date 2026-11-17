@@ -1,5 +1,20 @@
 [
  {
+  "id": "MED:43040240",
+  "title": "Genetic basis and genomic prediction of scale drop disease virus resistance of barramundi (Lates calcarifer) in commercial sea cages using additive and dominance models",
+  "authors": "Domingos JA, Vu NT, Poon ZWJ, Terence C, Senapin S, Dong HT, Clarke SM, Brauning R, Dodds KG, Tan MR, Gibson-Kueh S, Hess A, Shen X, Jerry DR.",
+  "journal": "Genetics, selection, evolution : GSE",
+  "pub_date": "2026-11-16",
+  "doi": "10.1186/s12711-026-01106-0",
+  "pmid": "43040240",
+  "url": "https://doi.org/10.1186/s12711-026-01106-0",
+  "epmc_url": "https://europepmc.org/article/MED/43040240",
+  "abstract": "<p>Scale drop disease virus (SDDV) threatens barramundi (Lates calcarifer) production in Singapore, with reported juvenile mortality of 40-90%. In the absence of effective treatments or commercial vaccines, selective breeding may offer a sustainable long-term approach to improving resistance. This study aimed to quantify additive and dominance genetic variance for SDDV resistance and to evaluate genomic prediction in four commercial cohorts that experienced natural outbreaks in sea cages in Singapore. The study included 1966 diseased juveniles (116.3 ± 66.0 g) and 1962 survivors (426.5 ± 249.1 g), genotyped by ddRADseq, which yielded 5089 SNPs after quality control. Linear and non-linear mixed models were fitted using genomic relationship matrices representing additive effects (Model A), additive and dominance as separate effects (Model A + D), or additive and dominance effects as combined (Model AD). Narrow-sense heritability ranged from 0.44 to 0.52 under Model A and from 0.23 to 0.32 under Model A + D, in which dominance accounted for 22 to 30% of the phenotypic variance. Broad-sense heritability ranged from 0.45 to 0.62 under Model A + D and from 0.61 to 0.70 under Model AD. Model AD showed the highest predictive ability (Matthews correlation coefficient 0.67 to 0.75, compared with 0.54 to 0.57 for Model A) and, under linear models, the lowest prediction error, whereas fitting dominance as a separate component reduced predictive ability (0.38 to 0.47). SDDV resistance showed substantial genetic variation in these cohorts, supporting its inclusion as a breeding objective. Estimates depended on the genetic model and scale of analysis. Accounting for dominance as a combined effect improved the prediction of genetic values, whereas fitting dominance as a separate component did not. Because dominance effects are not transmitted intact to offspring, additive breeding values remain the basis for selecting parents, while dominance may be exploited through mating strategies.</p>",
+  "preprint": false,
+  "open_access": false,
+  "added": "2026-11-17T15:58:01+00:00"
+ },
+ {
   "id": "MED:43026271",
   "title": "Genome-wide analysis reveals altitude-associated divergence in a colour-polymorphic insect",
   "authors": "Topalan U, Kuyucu AC, Farid SA, Çağlar SS, Sağlam İK.",
