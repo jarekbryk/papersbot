@@ -1,5 +1,20 @@
 [
  {
+  "id": "MED:43048050",
+  "title": "Disrupting Evolutionary Allopatry: Anthropogenic Secondary Contact and Introgression in an Endemic Freshwater Fish (<i>Squalidus multimaculatus</i>)",
+  "authors": "Kim J, Jeong R, Jeon HB, Kim DY, Park S, Suk HY.",
+  "journal": "Evolutionary applications",
+  "pub_date": "2026-11-16",
+  "doi": "10.1111/eva.70365",
+  "pmid": "43048050",
+  "url": "https://doi.org/10.1111/eva.70365",
+  "epmc_url": "https://europepmc.org/article/MED/43048050",
+  "abstract": "<p>Historical drainage connectivity, geographic isolation, and natural dispersal shape the population genetic architecture of freshwater fishes. Anthropogenic translocations frequently disrupt this long-standing evolutionary allopatry by facilitating secondary contact between previously isolated lineages; however, the genomic and temporal dynamics of such interactions remain poorly understood across heterogeneous river networks. Here, we used genome-wide SNPs generated via ddRAD-seq to evaluate population divergence, historical biogeography, and introgressive hybridization between the Korean endemic cyprinid <i>Squalidus multimaculatus</i> and its closely related congener <i>S. gracilis majimae</i> across the Korean Peninsula. Analyses of 360 individuals revealed pronounced interspecific divergence and fine-scale intra-drainage structure. In <i>S. g. majimae</i>, major genetic clusters corresponded to western and southern drainages, whereas <i>S. multimaculatus</i> comprised three distinct eastern coastal lineages (SE, ME, and NE). Genomic patterns indicated a more complex evolutionary history for <i>S. multimaculatus</i> than a single-river origin, consistent with historical divergence from an ancestral lineage associated with an extensive southern paleo-drainage system. Furthermore, several populations exhibited marked discordance between geography and genetic affinity, indicative of human-mediated translocations. Pervasive interspecific introgression was detected across multiple eastern coastal drainages-including the type locality of <i>S. multimaculatus</i>-with NewHybrids resolving F<sub>1</sub>, F<sub>2</sub>, and backcross classes. Temporal comparisons between 2013 and 2021 revealed heterogeneous admixture dynamics: <i>S. g. majimae</i> ancestry increased threefold in Population MHS and moderately in MYO, but remained elevated and stable in MJA. While lateral line scale counts correlated with genomic ancestry, individuals retaining diagnostic ancestral morphology frequently harbored substantial introgressed variation, demonstrating that morphological crypsis obscures pervasive genomic admixture. Our results demonstrate how anthropogenic activities can destabilize fragile evolutionary boundaries in non-uniform ways across space and time. These findings underscore the critical utility of genome-wide screening for uncovering cryptic introgression and establish an empirical framework for the evolutionary management of vulnerable endemic fishes.</p>",
+  "preprint": false,
+  "open_access": false,
+  "added": "2026-11-19T15:43:08+00:00"
+ },
+ {
   "id": "MED:43040240",
   "title": "Genetic basis and genomic prediction of scale drop disease virus resistance of barramundi (Lates calcarifer) in commercial sea cages using additive and dominance models",
   "authors": "Domingos JA, Vu NT, Poon ZWJ, Terence C, Senapin S, Dong HT, Clarke SM, Brauning R, Dodds KG, Tan MR, Gibson-Kueh S, Hess A, Shen X, Jerry DR.",
