@@ -1,5 +1,20 @@
 [
  {
+  "id": "MED:43053966",
+  "title": "Phylogeographic Structure in Salix sitchensis (Salicaceae) at the Pacific West Coast of North America",
+  "authors": "Stöckler AH, Marinček P, Wagner ND.",
+  "journal": "Ecology and evolution",
+  "pub_date": "2026-11-17",
+  "doi": "10.1002/ece3.74744",
+  "pmid": "43053966",
+  "url": "https://doi.org/10.1002/ece3.74744",
+  "epmc_url": "https://europepmc.org/article/MED/43053966",
+  "abstract": "<p>Several studies analysed genetic and geographic structuring of plants from the Pacific Northwest of North America and showed a recurring pattern of post-glacial migration from refugia. Willows (Salix) form an important part of the biodiversity of North America. For the genus, a north-to-south migration on the continent was proposed. We studied one North American subclade of six species occurring at the Pacific Coast from California to Alaska with an emphasis on the Sitka willow (Salix sitchensis) to analyse the impact of past geological and climatic events on the spatio-temporal evolution. We utilised RAD sequencing data and biogeographical analyses and revealed a well-supported topology. Based on our results, the common ancestor of the clade originated in the southern Coast Range, and the divergence of S. sitchensis from its sister species Salix lasiolepis and Salix tracyi occurred at 8.04 (3.75-14.85) Ma. Thus, our results showed a south-to-north migration for S. sitchensis, contradicting the pattern observed for the genus. Divergence time estimations gave evidence that S. sitchensis diversified in the Pliocene and therefore predated the Quaternary, but it was the Quaternary period with its climatic fluctuations that shaped the intraspecific diversity patterns. Detailed genetic analyses within the species showed a clear separation of northern and southern populations and suggested that the samples from the north (Alaska) originated from populations in more southern regions. Interestingly, the samples of S. sitchensis from Washington and Canada showed genetic admixture, indicating post-glacial gene flow that connected both edge populations. Our analyses suggest a pre-glacial migration from south to north and a post-glacial migration from northern and southern refugia, with a hybrid zone formation between the populations. Our results offer promising directions for future research and contribute to understanding the bio- and phylogeographical history of western North America.</p>",
+  "preprint": false,
+  "open_access": false,
+  "added": "2026-11-20T15:25:51+00:00"
+ },
+ {
   "id": "MED:43048050",
   "title": "Disrupting Evolutionary Allopatry: Anthropogenic Secondary Contact and Introgression in an Endemic Freshwater Fish (<i>Squalidus multimaculatus</i>)",
   "authors": "Kim J, Jeong R, Jeon HB, Kim DY, Park S, Suk HY.",
