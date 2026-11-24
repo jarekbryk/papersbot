@@ -1,5 +1,20 @@
 [
  {
+  "id": "PPR:PPR1374730",
+  "title": "Reference genome choice affects SNP recovery but not phylogenetic and population genetic inference in recent plant radiations",
+  "authors": "Soares LS, Gonçalves LT, Guzmán-Rodriguez S, Bombarely A, Freitas LB.",
+  "journal": "Research Square",
+  "pub_date": "2026-11-23",
+  "doi": "10.21203/rs.3.rs-11541798/v1",
+  "pmid": "",
+  "url": "https://doi.org/10.21203/rs.3.rs-11541798/v1",
+  "epmc_url": "https://europepmc.org/article/PPR/PPR1374730",
+  "abstract": "<p>Abstract</p><p>Reduced-representation sequencing approaches such as RAD-seq are widely used in population genomics and phylogenetics of non-model organisms, but data-processing choices can strongly influence downstream results. Here, we evaluate how reference genome choice affects DArT-seq analyses using multiple datasets spanning recent radiations in Petunia and Calibrachoa , mapped against reference genomes differing in phylogenetic relatedness. Congeneric references, even from a different clade within the genus, yielded highly consistent mapping rates, SNP recovery, and downstream population genomic patterns, whereas mapping to a more distantly related genus reduced mapping rates and increased variance in summary statistics, but broader patterns of genetic structure, diversity, and evolutionary relationships remained congruent. Reference choice therefore appears to matter most when genomes are distantly related or when analyses focus on fine-scale genomic signals. For recent radiations or closely related species with largely conserved genome structure, any congeneric reference genome yields comparable SNP datasets and the same conclusions about population structure and phylogenetic relationships, regardless of clade. These findings provide practical guidance for RAD-seq studies in non-model systems, showing that congeneric reference genomes support robust population and evolutionary inference, and references from a different genus can still recover useful evolutionary signal when no closer alternative is available.</p>",
+  "preprint": true,
+  "open_access": false,
+  "added": "2026-11-24T17:41:42+00:00"
+ },
+ {
   "id": "MED:43053966",
   "title": "Phylogeographic Structure in Salix sitchensis (Salicaceae) at the Pacific West Coast of North America",
   "authors": "Stöckler AH, Marinček P, Wagner ND.",
