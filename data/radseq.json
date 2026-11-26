@@ -165,6 +165,21 @@
   "added": "2026-11-10T11:15:06+00:00"
  },
  {
+  "id": "MED:43081909",
+  "title": "Natural pH Gradients Uncover Genomic and Transcriptomic Bases of Ocean Acidification Adaptation in the Marine Calcifier Paracentrotus lividus",
+  "authors": "Fernández-Vilert R, Arranz V, Martín-Huete M, Oleksiak MF, Crawford DL, González-Delgado S, Hernández JC, Pérez-Portela R.",
+  "journal": "Molecular ecology",
+  "pub_date": "2026-11-01",
+  "doi": "10.1111/mec.70679",
+  "pmid": "43081909",
+  "url": "https://doi.org/10.1111/mec.70679",
+  "epmc_url": "https://europepmc.org/article/MED/43081909",
+  "abstract": "<p>Ocean acidification (OA) is reshaping marine environments at an unprecedented pace, yet whether and how populations can evolve tolerance-and through which molecular mechanisms-remains a central open question for predicting species persistence under future climate scenarios. Natural CO<sub>2</sub> vent systems, where pH is chronically reduced by volcanic emissions, provide unique opportunities to study adaptive divergence under conditions that mirror future oceans. Here, we integrate population genomics, transcriptomics, and morphological data to dissect the molecular bases of adaptation to OA in Paracentrotus lividus, a marine calcifier inhabiting the Fuencaliente CO<sub>2</sub> vent system (La Palma, Canary Islands). Using ddRADseq on 95 individuals sampled along a natural pH gradient (7.5-8.1), we identified 27,542 SNPs, including 232 candidate loci under pH-driven selection. Despite negligible differentiation at neutral loci-confirming high gene flow-loci under selection revealed strong divergence across the gradient, with enrichment in genes related to ion transport, biomineralization, and acid-base regulation. Transcriptomic analyses revealed pronounced constitutive divergence between ambient (pH 8.1) and vent (pH 7.5) populations, consistent with long-term molecular reprogramming of metabolic pathways. In contrast, acute experimental exposure of ambient individuals to low pH triggered a modest stress response centered on protein stabilization that did not converge with the constitutive transcriptional profile of vent-adapted individuals, underscoring the distinction between transient plasticity and evolved tolerance. Together, our results show that adaptive molecular divergence can emerge at fine spatial scales despite extensive gene flow, and that resilience to OA is driven mainly by evolved molecular reprogramming rather than short-term plasticity.</p>",
+  "preprint": false,
+  "open_access": true,
+  "added": "2026-11-26T16:52:27+00:00"
+ },
+ {
   "id": "MED:42166209",
   "title": "Hybridization drives high genetic diversity in the Japanese fire-bellied newt, Cynops pyrrhogaster",
   "authors": "Shiroma H, Matsunami M, Shimada T, Matsui M, Nishikawa K, Nagano AJ, Tominaga A.",
