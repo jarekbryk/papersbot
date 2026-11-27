@@ -1,5 +1,20 @@
 [
  {
+  "id": "PPR:PPR1379215",
+  "title": "Contrasting microhaplotype diversity responses of saproxylic beetles to forest management",
+  "authors": "Amer NR, Krovi RS, Wierzbicka A, Jaworski T, Smolis A, Plewa R, Kadej M, Oczkowicz M, Kajtoch L.",
+  "journal": "bioRxiv",
+  "pub_date": "2026-11-26",
+  "doi": "10.64898/2026.11.25.769104",
+  "pmid": "",
+  "url": "https://doi.org/10.64898/2026.11.25.769104",
+  "epmc_url": "https://europepmc.org/article/PPR/PPR1379215",
+  "abstract": "<p>Genetic responses to forest management may vary substantially among saproxylic beetles because species differ in habitat requirements, dispersal and ecological specialization. Here, we evaluated whether microhaplotypes reconstructed from Double Digest Restriction-site Associated DNA sequencing (ddRADseq) loci provide additional locus-level genetic information and reveal species-specific associations with forest protection, management and habitat characteristics across 12 saproxylic beetle species sampled in eight forest complexes in Poland. Phased combinations of linked Single Nucleotide Polymorphism (SNPs) within RAD loci were analysed as multi-allelic microhaplotypes. Observed microhaplotype diversity was compared with analytical expectations under linkage equilibrium to assess how diversity differed from that expected if constituent SNP positions were independent. Observed microhaplotype diversity was consistently lower than expected under linkage equilibrium across all 12 species, with the magnitude of the difference varying among species. Patterns of population differentiation inferred from SNP-based FST and microhaplotype-based ΦST were significantly concordant in all species, although the strength of correspondence varied considerably among taxa. Individual microhaplotype homozygosity (FHAP) showed heterogeneous associations with site protection and management categories, with no consistent directional response across species. Sensitivity analyses restricted to the NE Poland detected no significant management associations after correction for multiple testing. Associations between site-level microhaplotype diversity and habitat characteristics also varied among species. Species traits showed suggestive associations with management-related changes in FHAP, although none remained statistically significant after correction for multiple-testing. Overall, microhaplotypes retain linked within-locus genetic variation and broadly recover SNP-based patterns of population differentiation, while associations between forest context and genetic variation remain strongly species-dependent.</p>",
+  "preprint": true,
+  "open_access": false,
+  "added": "2026-11-27T16:38:09+00:00"
+ },
+ {
   "id": "PPR:PPR1374730",
   "title": "Reference genome choice affects SNP recovery but not phylogenetic and population genetic inference in recent plant radiations",
   "authors": "Soares LS, Gonçalves LT, Guzmán-Rodriguez S, Bombarely A, Freitas LB.",
@@ -13,6 +28,21 @@
   "preprint": true,
   "open_access": false,
   "added": "2026-11-24T17:41:42+00:00"
+ },
+ {
+  "id": "MED:43092261",
+  "title": "Identification of a Major-Effect Locus on Tomato Chromosome 8 Associated with Tolerance to Tomato Brown Rugose Fruit Virus (ToBRFV)",
+  "authors": "Mariani A, Marconi G, Manilia G, Gallo CA, Bocchini M, Echenique V, Schiappa A, Albertini E.",
+  "journal": "Plants (Basel, Switzerland)",
+  "pub_date": "2026-11-20",
+  "doi": "10.3390/plants15223632",
+  "pmid": "43092261",
+  "url": "https://doi.org/10.3390/plants15223632",
+  "epmc_url": "https://europepmc.org/article/MED/43092261",
+  "abstract": "<p>Tomato brown rugose fruit virus (ToBRFV) is an emerging threat to tomato (<i>Solanum lycopersicum</i> L.) production worldwide, and new resistance sources are needed for sustainable disease control. We investigated the inheritance and genetic architecture of tolerance to ToBRFV in an F<sub>2</sub> population derived from a resistant line carrying an introgression from <i>Solanum habrochaites</i> LA1777. After mechanical inoculation, 94 of 128 F<sub>2</sub> plants remained asymptomatic and 34 were susceptible, fitting the 3:1 ratio expected for a single dominant determinant. DAS-ELISA on apical non-inoculated leaves showed that asymptomatic plants carrying the LA1777 allele were systemically infected, indicating tolerance rather than resistance. Genotyping of 110 F<sub>2</sub> individuals by methylation-content-sensitive double-digest restriction-site-associated DNA sequencing (MCSeEd) yielded 70,379 high-confidence variants. Genome-wide association analysis identified 78 significant variants defining an approximately 3.40 Mb interval on chromosome 8, with the strongest association at SL4.0ch08_58258671, independently confirmed with TASSEL5, GAPIT3, and PLINK2. The interval contains biologically plausible candidate genes encoding an RPP13-like disease resistance protein, a lectin receptor-like kinase, transcription factors, and a DEAD-box RNA helicase. Of four cleaved amplified polymorphic sequence (CAPS) markers developed, two showed reproducible marker-trait co-segregation and were concordant with phenotypes in naturally infected greenhouse populations. These results provide a major chromosome 8 locus and breeding-ready markers for ToBRFV tolerance in tomato.</p>",
+  "preprint": false,
+  "open_access": false,
+  "added": "2026-11-27T16:38:09+00:00"
  },
  {
   "id": "MED:43053966",

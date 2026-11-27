@@ -75,6 +75,21 @@
   "added": "2026-11-11T10:26:24+00:00"
  },
  {
+  "id": "MED:43094413",
+  "title": "Helminth co-infection facilitates gammaherpesvirus infection in the wood mouse Apodemus sylvaticus",
+  "authors": "Newby-Gallagher K, Hall JL, Stewart JP, Sharma P, Babayan SA, Pedersen AB, Fenton A.",
+  "journal": "Philosophical transactions of the Royal Society of London. Series B, Biological sciences",
+  "pub_date": "2026-11-01",
+  "doi": "10.1098/rstb.2025.0285",
+  "pmid": "43094413",
+  "url": "https://doi.org/10.1098/rstb.2025.0285",
+  "epmc_url": "https://europepmc.org/article/MED/43094413",
+  "abstract": "<p>Helminths are widespread parasites that can modulate host immunity, potentially increasing susceptibility to viral infections. However, evidence for these effects varies across systems and environments, and links between laboratory and wild populations remain unclear. We developed a tractable system using wood mice, Heligmosomoides spp. nematodes and wood mouse herpesvirus (WMHV) to bridge this gap. Combining laboratory and field experiments with population modelling, we examined how helminth infection, anthelmintic treatment and diet affect viral dynamics. Across laboratory and field data, helminth infection generally increased susceptibility to WMHV, with stronger effects apparent at higher worm burdens. Furthermore, our field results showed that anthelmintic treatment reduced subsequent viral infection. Our population-level modelling, parameterized from our field data, suggested that helminth burden-dependent facilitation can generate nonlinear effects on viral spread, dependent on helminth virulence. Our findings highlight the potential importance of helminths as facilitators of viral infections and suggest that anthelmintic treatment may provide indirect benefits for viral control. We also show the value of integrating laboratory and field approaches on the same (or closely related) species, in particular the potential offered by the wood mouse-Heligmosomoides-WMHV system, to understand the drivers and consequences of host-helminth-viral interactions. This article is part of the theme issue 'Ecological and evolutionary interactions between parasites across scales'.</p>",
+  "preprint": false,
+  "open_access": false,
+  "added": "2026-11-27T16:38:09+00:00"
+ },
+ {
   "id": "MED:43035980",
   "title": "Epigenetic Clocks Uncover the Natural History of Ageing in Wild Mice",
   "authors": "Wolf SE, Babayan SA, Marioni RE, Horvath S, Pedersen AB, Little TJ.",
